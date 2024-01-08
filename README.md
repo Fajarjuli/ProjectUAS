@@ -1,1 +1,13 @@
 # ProjectUAS
+
+Nama:Fajar Julianwar Muslimin
+NIM :312310672
+KELAS : TI.23.A.6
+DOSEN PENGAMPU: AGUNG NUGROHO S.KOM.,M.KOM.
+
+
+KODE PROGRAM KASIR 
+![GAMBAR](UAS/Uas.png)
+
+HASIL KODE PROGRAM 
+![GAMBAR2](UAS/Screenshot(120).png)
